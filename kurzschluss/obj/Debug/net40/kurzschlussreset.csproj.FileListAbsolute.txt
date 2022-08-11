@@ -1,8 +1,0 @@
-C:\Users\Leonid\Documents\GitHub\kurzschlussreset\kurzschluss\obj\Debug\net40\kurzschluss.Form1.resources
-C:\Users\Leonid\Documents\GitHub\kurzschlussreset\kurzschluss\obj\Debug\net40\kurzschlussreset.csproj.GenerateResource.cache
-C:\Users\Leonid\Documents\GitHub\kurzschlussreset\kurzschluss\obj\Debug\net40\kurzschlussreset.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Leonid\Documents\GitHub\kurzschlussreset\kurzschluss\obj\Debug\net40\kurzschlussreset.csproj.CoreCompileInputs.cache
-C:\Users\Leonid\Documents\GitHub\kurzschlussreset\kurzschluss\bin\Debug\net40\kurzschlussreset.exe.config
-C:\Users\Leonid\Documents\GitHub\kurzschlussreset\kurzschluss\bin\Debug\net40\kurzschlussreset.exe
-C:\Users\Leonid\Documents\GitHub\kurzschlussreset\kurzschluss\obj\Debug\net40\kurzschlussreset.exe
-C:\Users\Leonid\Documents\GitHub\kurzschlussreset\kurzschluss\obj\Debug\net40\kurzschlussreset.csproj.AssemblyReference.cache
