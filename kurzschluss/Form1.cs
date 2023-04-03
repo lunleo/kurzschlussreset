@@ -195,6 +195,8 @@ namespace kurzschluss
 					}
 				}
 				while (num != 255);
+				API.apiJob("LM_60", "FS_LOESCHEN", "", "");
+				API.apiJob("LM_60", "IS_LOESCHEN", "", "");
 			}
 			catch
 			{
@@ -223,6 +225,8 @@ namespace kurzschluss
 					}
 				}
 				while (num != 255);
+				API.apiJob("FRM_70", "FS_LOESCHEN", "", "");
+				API.apiJob("FRM_70", "IS_LOESCHEN", "", "");
 			}
 			catch
 			{
@@ -251,6 +255,8 @@ namespace kurzschluss
 					}
 				}
 				while (num != 255);
+				API.apiJob("FRM_87", "FS_LOESCHEN", "", "");
+				API.apiJob("FRM_87", "IS_LOESCHEN", "", "");
 			}
 			catch
 			{
